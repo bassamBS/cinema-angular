@@ -1,0 +1,96 @@
+<div class="row col-8 card shadow mx-auto mt-3 p-5">
+
+    <h3 class="text-center">{{title}}</h3>
+  
+    <form [formGroup]="showForm" (ngSubmit)="onSubmitShowForm()" class="my-3">
+      <div class="mb-3">
+        <label for="name">Titre de la série:</label>
+        <input id="title"
+               class="form-control"
+               placeholder="Titre de la série"
+               formControlName="title"
+               [(ngModel)]="show.title">
+          <app-errors-form [control]="this.showForm.controls.title"
+                           controlLabel="titre"> 
+          </app-errors-form>
+      </div>
+  
+      <div class="mb-3">
+        <label for="releaseDate">Date de sortie de la première saison:</label>
+        <input id="releaseDate"
+               class="form-control"
+               type="date"
+               placeholder="Date de sortie de la première saison"
+               formControlName="releaseDate"
+               [(ngModel)]="releaseDate">
+               <app-errors-form [control]="this.showForm.controls.releaseDate"
+                                controlLabel="date de sortie">
+              </app-errors-form>
+      </div>
+  
+      <div class="mb-3">
+        <label for="seasons">Nombre de saisons: </label>
+        <input id="seasons"
+               type="text"
+               pattern="^[1-9][0-9]*"
+               class="form-control"
+               min = 1
+               max = 100
+               placeholder="Nombre de saisons"
+               formControlName="seasons"
+               [(ngModel)]="show.seasons">
+               <app-errors-form [control]="this.showForm.controls.seasons"
+                   controlLabel="nombre de saisons">
+               </app-errors-form>
+        
+      </div>
+
+      <div class="mb-3">
+        <label for="description">Description: </label>
+        <textarea id="description"
+               type="text-area"
+               class="form-control"
+               placeholder="Description"
+               formControlName="description"
+               [(ngModel)]="show.description"></textarea>
+               <app-errors-form [control]="this.showForm.controls.description"
+                                controlLabel="description">
+               </app-errors-form>
+      </div>
+
+      <div class="mb-3">
+        <label for="critic">Critique:</label>
+        <textarea id="critic"
+                class="form-control"
+                placeholder="Critique"
+                formControlName="critic"
+                [(ngModel)]="show.critic"></textarea>
+                <app-errors-form [control]="this.showForm.controls.critic"
+                                 controlLabel="critique">
+                </app-errors-form>
+      </div>
+
+      <div class="mb-3">
+        <label for="poster">Affiche du film:</label>
+        <input id="poster"
+               type="url"
+               pattern="https://.*"
+               class="form-control"
+               placeholder="https://.*"
+               formControlName="poster"
+               [(ngModel)]="show.poster">
+               <app-errors-form [control]="this.showForm.controls.poster"
+                                controlLabel="affiche">
+               </app-errors-form>
+      </div>
+  
+      <button type="submit"
+              class="d-grid col-4 mt-5 mx-auto btn btn-danger"
+              [disabled]="showForm.invalid">{{submitLabel}}</button>
+  
+    </form>
+  
+    <a routerLink="/home"
+       class="text-center text-dark mb-2">RETOUR</a>
+  
+  </div>

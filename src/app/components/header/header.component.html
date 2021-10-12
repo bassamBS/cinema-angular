@@ -1,0 +1,21 @@
+<div *ngIf="isConnected" class="header mt-5 mx-auto">
+
+    <h3 class="text-center"><mark>Ciné manager</mark></h3>
+
+    <div class="d-flex my-5 justify-content-between action">
+        <ng-container>
+            <a class="btn btn-outline-danger"
+                (click)="onClickSignOut()">
+                <i class="bi bi-box-arrow-left"></i>
+            </a>
+        </ng-container>
+
+        <ng-container *ngIf="!isAddPage">
+            <a class="btn btn-outline-primary"
+            routerLink="/shows/new">
+             Ajouter une série
+            </a>   
+        </ng-container>
+    </div>
+    
+</div>

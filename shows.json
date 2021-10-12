@@ -1,0 +1,104 @@
+{
+    "shows": [
+        {
+            "title": "Breaking Bad",
+            "releaseDate": "Mon Jan 28 2008 00:00:00 GMT+0100 (Central European Standard Time)",
+            "seasons": 5, 
+            "description" : "Walter White, 50 ans, est professeur de chimie dans un lycée du Nouveau-Mexique. Pour subvenir aux besoins de Skyler, sa femme enceinte, et de Walt Junior, son fils handicapé, il est obligé de travailler doublement. Son quotidien déjà morose devient carrément noir lorsqu'il apprend qu'il est atteint d'un incurable cancer des poumons. Les médecins ne lui donnent pas plus de deux ans à vivre. Pour réunir rapidement beaucoup d'argent afin de mettre sa famille à l'abri, Walter ne voit plus qu'une solution : mettre ses connaissances en chimie à profit pour fabriquer et vendre du crystal meth, une drogue de synthèse qui rapporte beaucoup. Il propose à Jesse, un de ses anciens élèves devenu un petit dealer de seconde zone, de faire équipe avec lui. Le duo improvisé met en place un labo itinérant dans un vieux camping-car.",
+            "critic" : "Le jeu des acteurs est le meilleur que vous trouverez à la télévision. Le scénario et l'intrigue sont à la hauteur de X-Files. Non, Breaking Bad n'est pas pour tout le monde, mais si vous avez le coeur bien accroché, AMC a les tripes. ",
+            "poster": "https://media.senscritique.com/media/000006469472/source_big/Breaking_Bad.jpg",
+            "comments": [
+                {
+                    "date": "Tue Nov 10 2009 00:00:00 GMT+0100 (Central European Standard Time)",
+                    "author": "Benjamin B.",
+                    "content": "Maintenir une intrigue parfaitement bien ficelée, faire évoluer des personnages charismatiques, approfondir leur psychologie avec une cohérence sidérante par rapport aux événements et qui offre une conclusion magistrale. Allé osons : Breaking Bad est la meilleure chose que la télé nous ait offert depuis son inventions."
+                },
+                {
+                    "date": "Thu Jul 01 2010 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Julien O.",
+                    "content": "Breaking Bad est une drogue dure qui rend dépendant assez vite."
+                }
+            ]
+        },
+        {
+            "title": "Better Call Saul",
+            "releaseDate": "Sun Feb 08 2015 00:00:00 GMT+0100 (Central European Standard Time)",
+            "seasons": 5,
+            "description" : "Six ans avant de croiser le chemin de Walter White, Saul Goodman, connu sous le nom de Jimmy McGill, est un avocat qui peine à joindre les deux bouts, à Albuquerque, au Nouveau-Mexique. Pour boucler ses fins de mois, il n'aura d'autres choix que se livrer à quelques petites escroqueries. Chemin faisant, il va faire des rencontres qui vont se révéler déterminantes dans son parcours : Nacho Varga, ou encore Mike Ehrmantraut, un criminel spécialisé dans le \"nettoyage\", qui deviendra son futur homme de main.",
+            "critic" : "Cela ne prend pas énormément de temps avant de voir Jimmy / Saul être pieds et poings liés, jeté dans le désert sous un ciel bleu légèrement étoilé de nuages. A cet instant, les fans de Breaking Bad se sentent comme à la maison. Et à partir du moment où le ruban adhésif est retiré de sa bouche par ses ravisseurs, on retrouve l'esprit de Saul et le talent d'Odenkirk peut éclater à travers un monologue aussi implorant que philosophique sur la nature de la \"revanche\". Ce mélodieux discours plein de balivernes est magnifique.",
+            "poster" : "https://media.senscritique.com/media/000009629546/source_big/Better_Call_Saul.jpg",
+            "comments": [
+                {
+                    "date": "Fri May 01 2020 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Edouard A.",
+                    "content": "Finalement assez différente de Breaking Bad, Better Call Saul est le genre de série dans laquelle on s'engouffre et où on développe une empathie énorme pour le personnage principal. Difficile de décrire les raisons d'un tel attachement... Le jeu d'acteur est incroyable, les situations loufoques, parfois profondes et dramatiques. Dialogues, mise en scène, tout est parfait. Chef d'oeuvre."
+                },
+                {
+                    "date": "Thu May 21 2020 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Philippe K.",
+                    "content": "Dans la veine de Breaking Bad, avec une partie des mêmes acteurs et à l'ambiance similaire (mais en plus gai grâce au personnage interprété par Bob Odenkirk), cette série est un bijou..."
+                }
+            ]
+        },
+        {
+            "title": "Baron noir",
+            "releaseDate": "Mon Feb 08 2016 00:00:00 GMT+0100 (Central European Standard Time)", 
+            "seasons": 3,
+            "description": "L'épopée politique et judiciaire de Philippe Rickwaert, député-maire du Nord, porté par une irrépressible soif de revanche sociale. Lors de l'entre-deux tours des élections présidentielles, il voit son avenir politique s'effondrer lorsque son mentor, le candidat de gauche, le sacrifie pour sauver son élection. Déterminé à se réinventer une carrière, Philippe va utiliser élections et temps forts politiques pour s'imposer pas à pas, contre celui qui l'a trahi, mais fort d'une alliance nouvelle avec la plus proche conseillère de son ennemi. Indispensable mais incontrôlable, aussi menteur que sincère, cultivant des amitiés dans toutes les strates de la société, y compris au sein de la police et du grand banditisme.",
+            "critic": "Baron Noir laisse l’impression d’avoir trouvé le ton juste. Elle ne sombre pas dans le cynisme mais s’octroie la dose dramatique nécessaire. Elle reste fidèle à la reconstitution d’une réalité politique mais se garde de multiplier les clins d’œil vers les personnes en place.",
+            "poster": "http://ekladata.com/zQ_TGHY2lf4Pze_rS3_q4s-ZK1A.jpg",
+            "comments": [
+                {
+                    "date": "Fri Sep 18 2020 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Alice S.",
+                    "content": "Formidable tout simplement ! Un casting hors pair chez les premiers comme les seconds rôles (mention spéciale à François Morel !), des dialogues ciselés et finement dosés, un scénario très bien construit et haletant jusqu'aux secondes d'un final inattendu mais ô combien surprenant ! Vivement la suite ! Mais sera-t-il possible de faire mieux ?"
+                },
+                {
+                    "date": "Tue May 05 2020 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Sophie C.",
+                    "content": "Captivant et prenant mais en même temps déprimant sur la réalité du pouvoir caché au commun des mortels."
+                }
+            ]
+        },
+        {
+            "title": "House of Cards",
+            "releaseDate": "Fri Mar 01 2013 00:00:00 GMT+0100 (Central European Standard Time)",
+            "seasons": 6,
+            "description" : "House of Cards ou Le Château de cartes au Québec, est une série télévisée de thriller politique américaine créée par Beau Willimon. La série est notamment réalisée par David Fincher. Elle est l'adaptation de la série britannique Château de cartes, elle-même adaptée du roman de Michael Dobbs. Chaque saison comporte 13 épisodes d'environ 55 minutes, hormis la sixième et dernière avec 8 épisodes. La série traite des thèmes de la trahison, de la manipulation, du pouvoir et du pragmatisme impitoyable. House of Cards se déroule à Washington et s'articule autour d'un couple, les Underwood. Francis Joseph Underwood, dit Frank Underwood, (Kevin Spacey), membre du Parti démocrate, est le coordinateur de la majorité parlementaire au Congrès des États-Unis et le représentant du 5e district de Caroline du Sud.",
+            "critic" : " Les deux premières heures constituent un divertissement aussi élégant que sombre, il reste désormais à savoir si se gaver de 13 épisodes peut se révéler aussi addictif (...) Si Netflix s'aventure pour la première fois sur le terrain des séries originales, rien dans House of Cards ne donne le moindre sentiment d'amateurisme.",
+            "poster" : "https://sm.ign.com/ign_fr/tv/h/house-of-c/house-of-cards-2011_4aev.jpg",
+            "comments": [
+                {
+                    "date": "Wed Oct 10 2018 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Hortense T.",
+                    "content": "Depuis deux saisons déjà, l'intérêt s'était émoussé. Mais là, sans Spacey et on sortant toutes les lourdeurs du moment, on atteint de sommets de nullité rarement égalés.... la série se finit en sorte d'Amour gloire et beauté ou sous Dallas.... très décevant. Le jeu des acteurs n'a rien à y voir, c'est vraiment le scénario, la cohérence et les situations qui sont grotesques."
+                },
+                {
+                    "date": "Sat Oct 20 2018 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Nelly L.",
+                    "content": "Après une saison 5 qui a été plus que difficile à finir car beaucoup tiré par les cheveux ... La saison 6 est vraiment en dessous... Elle ne fait que décevoir et on ressent l’absence de beaucoup de gens qui n'ont pas suivi.. La façon de filmer est horrible dès le début, tout a changé et on ne s'y retrouve plus.. Je ne parle pas de l'histoire qui est mauvaise à mon goût.. Très très dommage un arrêt à la saison 5 aurait été mieux finalement, et rendez nous Kevin Spacey!"
+                }
+            ]
+        },
+        {
+            "title": "Les Simpson",
+            "releaseDate": "Sun Dec 17 1989 00:00:00 GMT+0100 (Central European Standard Time)",
+            "seasons": 32,
+            "description" : "Les Simpson, famille américaine moyenne, vivent à Springfield. Homer, le père, a deux passions : regarder la télé et boire des bières. Mais son quotidien est rarement reposant, entre son fils Bart qui fait toutes les bêtises possibles, sa fille Lisa qui est une surdouée, ou encore sa femme Marge qui ne supporte pas de le voir se soûler à longueur de journée.",
+            "critic" : "ils sont tellement immuables, fidèles à eux-mêmes depuis un tiers de siècle qu’on finirait presque par oublier que les Simpson sont toujours là. Que Bart continue d’écrire des bêtises sur son tableau noir, que Homer enchaîne les bourdes, que Marge s’épuise à le contenir, que Lisa échoue à changer le monde… qu’ils dérapent, se détestent tendrement et se payent la tête de l’Amérique chaque semaine sur Fox outre-Atlantique",
+            "poster" : "https://media.senscritique.com/media/000006490512/source_big/Les_Simpson.jpg",
+            "comments": [
+                {
+                    "date": "Mon Nov 30 2020 00:00:00 GMT+0100 (Central European Standard Time)",
+                    "author": "Jérémy M.",
+                    "content": "Est-il nécessaire de parler de cette série ? Sa longévité dépasse l'entendement, et elle a su se démarquer, se surpasser s'améliorer au fil des années."
+                },
+                {
+                    "date": "Sat Oct 17 2020 00:00:00 GMT+0200 (Central European Summer Time)",
+                    "author": "Pauline P.",
+                    "content": "Une série animée culte, aux clins d’œil, parodies et références nombreuses et efficaces. Les personnages sont attachants et hilarants, et chaque épisode est riche dans sa critique de la société ou de l’actualité. Une série qui, depuis plus de 25 saisons, réussit le brillant pari de se renouveler sans cesse ! \"Oh pinaise\" ! "
+                }
+            ]
+        }
+    ]
+}

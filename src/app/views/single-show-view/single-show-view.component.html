@@ -1,0 +1,30 @@
+  <div class="card col-11 mx-auto mb-3">
+    <div class="row g-0">
+      <div class="col-md-4">
+        <img [src]="show?.poster" class="img-fluid rounded-start">
+      </div>
+      <div class="col-md-6">
+        <div class="card-body">
+          <div class="d-flex justify-content-between mb-3">
+            <mark><h5 class="card-title">{{show?.title}} ({{show?.seasons}} saisons)</h5></mark>
+            <mark><h5 class="text-muted text-end">{{show?.releaseDate | date:'longDate': '': 'fr-FR' }}</h5></mark>
+          </div>
+          <p class="card-text">{{show?.description}}</p>
+          <div class="alert alert-info" role="alert">
+            <h5 class="card-title">Critique</h5>
+            <p class="card-text">{{show?.critic}}</p>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <app-comment-show-form title="Partager son avis"
+                         submitLabel="Poster"
+                         (formSubmitted)="addComment($event)">
+  </app-comment-show-form>
+
+  <ng-container *ngIf="show?.comments">
+    <app-comments-cards [commentsShow]="show.comments"></app-comments-cards>
+  </ng-container>

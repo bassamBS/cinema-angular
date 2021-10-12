@@ -1,0 +1,19 @@
+td {
+    padding: 20px 20px; 
+}
+
+i {
+    font-size: 20px;
+    margin: 0 20px;
+    cursor: pointer;
+}
+
+
+
+.bi-pencil {
+    color: orange;
+}
+
+.bi-trash {
+    color: crimson;
+}

@@ -1,0 +1,16 @@
+<td class="fs-5">{{show.id}}</td>
+<td class="fs-5"><mark>{{show.title}}</mark></td>
+<td>{{show.releaseDate | date:'longDate': '': 'fr-FR' }}</td>
+<td>
+    <a [routerLink]="['/shows', show.id]">
+        <i class="bi bi-book"></i>
+    </a>
+
+    <a [routerLink]="['/shows', show.id, 'edit']">
+        <i class="bi bi-pencil"></i>
+    </a>
+
+    <a (click)="onClickDeleteShow()">  
+        <i class="bi bi-trash"></i>
+    </a>
+</td>

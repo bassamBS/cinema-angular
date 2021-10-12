@@ -1,0 +1,7 @@
+<app-show-form 
+    title="Mode édition: {{show.title}}"
+    *ngIf="show"
+    submitLabel="EDITER"
+    [showToEdit]="show"
+    (formSubmitted)="editShow($event)">
+</app-show-form>
